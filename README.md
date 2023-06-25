@@ -1,2 +1,2 @@
 # OIBSIP iris flower classification
-all projects of data science available
+machine learning classification done using knn,svm and logistic regression
